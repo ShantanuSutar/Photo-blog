@@ -1,0 +1,27 @@
+body {
+    background-color: bisque;
+}
+
+img {
+    width: 30%;
+    height: 400px;
+    margin: 1.55%;
+    object-fit: cover;
+    /* object-fit: contain; */
+    /* object-fit: fill; */
+    /* object-fit: scale-down; */
+    /* object-position: center; */
+    border-radius: 10px;
+}
+
+nav {
+    font-size: 22px;
+    text-transform: uppercase;
+    border-bottom: 2px solid rgb(132, 130, 130);
+    width: 30%;
+    margin-left: 1.5%;
+    padding: 20px 0;
+    /* font-family: Raleway, sans-serif; */
+    font-family: Raleway, sans-serif;
+    color: #6d6875;
+}
