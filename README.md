@@ -9,3 +9,5 @@ Challenging part here was that all the photos were of different resolutions and 
 So, I used 'object fit' property in CSS to solve it
 
 And now it looks greattt...
+
+Link :- https://shantanusutar.github.io/Photo-blog/
